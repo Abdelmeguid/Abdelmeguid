@@ -1,4 +1,4 @@
-<img src="./github-header-image.png"></img>
+<marquee direction="left" scrollamount="10">I am Ahmed Abdelmeguid</marquee>
 <h1 align="center">Hi 👋, I'm Ahmed Abdelmeguid</h1>
 <h3 align="center">MERN Fullstack & shopify developer</h3>
 
