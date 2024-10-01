@@ -1,4 +1,9 @@
-<marquee direction="left" scrollamount="10">I am Ahmed Abdelmeguid</marquee>
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="50" font-size="20">I am Ahmed Abdelmeguid</text>
+  <rect x="0" y="60" width="200" height="5" fill="white">
+    <animate attributeName="width" from="0" to="200" dur="5s" fill="freeze" />
+  </rect>
+</svg>
 <h1 align="center">Hi 👋, I'm Ahmed Abdelmeguid</h1>
 <h3 align="center">MERN Fullstack & shopify developer</h3>
 
