@@ -1,4 +1,4 @@
-[Header](./github-header-image.png)
+<img src="./github-header-image.png"></img>
 <h1 align="center">Hi 👋, I'm Ahmed Abdelmeguid</h1>
 <h3 align="center">MERN Fullstack & shopify developer</h3>
 
