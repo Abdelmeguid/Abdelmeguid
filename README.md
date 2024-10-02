@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=500&color=150703&background=8DE94C&lines=Hi+All;here+Ahmed+Abdelmeguid;MERN+Web+Devloper;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=150703&background=8DE94C&width=435&lines=Hi+All;here+Ahmed+Abdelmeguid;MERN+Web+Devloper)](https://git.io/typing-svg)
+ 
 </h1>
 
 <h1 align="center">Hi 👋, I'm Ahmed Abdelmeguid</h1>
