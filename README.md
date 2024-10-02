@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=23&duration=2500&pause=50&color=36BCF7F8&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Ahmed+Abdelmeguid;MERN+Web+Devloper" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=2500&pause=50&color=36BCF7F8&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Ahmed+Abdelmeguid;MERN+Web+Devloper" alt="Typing SVG" /></a>
 
  
 </h1>
