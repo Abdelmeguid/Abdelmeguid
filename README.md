@@ -10,12 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmeguid&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmeguid" /> </p>
 
 <h3 align="left">Connect with me through my Linkdin profile by clicking this below button:</h3>
-<!-- <a href="https://www.linkedin.com/in/ahmed-abdelmegid-b688a91b3/"target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-</a> -->
-<a href="https://www.linkedin.com/in/mends-albert/" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-abdelmegid-b688a91b3/"target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
+
 
 
 
