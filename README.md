@@ -142,10 +142,6 @@
 
 </div>
 
-  <!-- Repeat for the rest of the icons -->
-
-</div>
-
 <!--   as below to add space
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right:10px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
