@@ -1,7 +1,7 @@
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> -->
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=2500&pause=77&color=36BCF7F8&width=444&height=70&lines=Hi+There+%F0%9F%91%8B;I+'m+Ahmed+Abdelmeguid;MERN+Web+Devloper" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=2500&pause=100&color=36BCF7F8&width=444&height=70&lines=Hi+There+%F0%9F%91%8B;I+'m+Ahmed+Abdelmeguid;MERN+Web+Devloper" alt="Typing SVG" /></a>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmeguid&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmeguid" /> </p>
