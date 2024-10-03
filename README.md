@@ -9,7 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmeguid&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmeguid" /> </p>
 
-<h3 align="left">Connect with my Linkdin profile by clicking this button: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mends-albert/)</h3>
+<h3 align="left">Connect with my Linkdin profile by clicking this button:</h3>
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mends-albert/)
 <p align="left">
 </p>
 
