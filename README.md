@@ -12,10 +12,10 @@
        style="border-radius: 40px; width: 110px; height: 30px;">
 </a>
 <div>
-<div align="left">
+
 <h3 align="left">Languages and Tools:</h3>
 
-
+<div align="left">
 
 		<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
 		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
