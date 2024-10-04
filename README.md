@@ -26,7 +26,8 @@
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 </div>
-
+<p>
+</p>
 <p>
     <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
 </p>
@@ -35,6 +36,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmeguid&show_icons=true&locale=en&layout=compact" alt="abdelmeguid" />
 </div>
+
+<p>
+</p>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmeguid" alt="abdelmeguid" />
