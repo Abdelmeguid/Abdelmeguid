@@ -28,11 +28,9 @@
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 </div>
 
-<p>
-</p>
-<p>
+
     <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
-</p>
+
 
 <!-- GitHub Stats -->
 <div align="center">
