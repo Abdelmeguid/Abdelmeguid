@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" 
        style="border-radius: 40px; width: 110px; height: 30px;">
 </a>
-
+<div>
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -29,8 +29,8 @@
 
 </div>
 <p>       </p>
-<p>   <img align="top" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />    </p>
-
+<p>   <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />    </p>
+</div>
 <p>       </p>
 <p>       </p>
 <p>  </p>
