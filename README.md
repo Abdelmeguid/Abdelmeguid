@@ -13,7 +13,7 @@
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>   <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />    </p>
+
 
 <div align="left" style="margin: 10px;">
 		<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
@@ -28,6 +28,8 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 
 </div>
+
+<p>   <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />    </p>
 
 <p>       </p>
 <p>       </p>
