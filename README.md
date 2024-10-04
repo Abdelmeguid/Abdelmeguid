@@ -30,7 +30,8 @@
   <p>
   </P>
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
-
+  <p>
+  </P>
 <!-- GitHub Stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmeguid&show_icons=true&locale=en&layout=compact" alt="abdelmeguid" />
