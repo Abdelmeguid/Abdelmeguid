@@ -13,7 +13,9 @@
 </a>
 
 
-  
+  <p>
+  <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
+  </P>
   
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -33,9 +35,7 @@
   <p>
   </P>
  
-<p>
-  <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
-  </P>
+
 
  
     
