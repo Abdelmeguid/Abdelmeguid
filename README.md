@@ -29,7 +29,7 @@
 
 </div>
 
-<p>   <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />    </p>
+<p>   <img align="right" align="top" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />    </p>
 
 <p>       </p>
 <p>       </p>
