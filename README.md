@@ -12,7 +12,7 @@
        style="border-radius: 40px; width: 110px; height: 30px;">
 </a>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; background-color: yellow;">
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="width: 50%; padding: 0; margin: 0;">
     <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js" /></code>
